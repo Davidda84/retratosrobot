@@ -13,4 +13,3 @@ Programa para crear retratos robot con cadenas de caracteres. Una vez ejecutado 
 Una vez elegidos los rasgos de cada facción, se mostrará el retrato por pantalla. Por ejemplo, las opciones 3, 2, 1, 4 y 2 para pelo, ojos, nariz, boca y barbilla respectivamente, muestran el siguiente retrato robot:
 
 [![N|Solid](https://github.com/Davidda84/retratosrobot/blob/main/retrato.PNG)](https://github.com/Davidda84/retratosrobot/blob/main/retrato.PNG)
-
