@@ -10,7 +10,7 @@ public class RetratosRobot {
 		/*
 		  Programa para crear retratos robot con cadenas de caracteres. Una vez ejecutado el programa, 
 		  el usuario puede crear tantos retratos como desee antes de finalizar. Los retratos se crean 
-		  eligiendo los rasgos de cada facción
+		  eligiendo los rasgos de cada facción.
 		  
 		   PELO                    OJOS                    NARIZ
 	  1. WWWWWWWWW           1. | O   O |             1. @   J   @    
@@ -183,7 +183,6 @@ public class RetratosRobot {
 			System.out.println((i+1) + ".    " + barbilla[i]);
 		}
 			int nBarbilla = Integer.parseInt(reader.readLine());
-			//teclado.nextLine();
 			String tBarbilla = barbilla[(nBarbilla-1)];
 			return tBarbilla;
 	}
